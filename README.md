@@ -32,3 +32,7 @@ crawling 기간	: Youtube_2017.05.01~ 2019.05.03		Naver_2018.04.27~2019.05.04		T
 
 ### 4. Frequency Analysis
 <img width="456" alt="github" src="https://user-images.githubusercontent.com/48209176/59550944-e58ed200-8fac-11e9-99cc-57ba462a7cb1.PNG">
+
+
+### 5. Conclusion
+<img width="919" alt="github" src="https://user-images.githubusercontent.com/48209176/59550970-4918ff80-8fad-11e9-96c9-1552a935ff06.PNG">
