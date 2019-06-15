@@ -7,6 +7,13 @@ purpose of this project: compare the key difference of Low Cost Career(LCC) with
 Source of SNS for analysis: Youtube, Twitter, Naver Blog 
 Key Brands: Jeju airlines, Asiana Airlines, Korean Air
 
+
+SNS type	: Youtube		Naver Blog		Twitter				
+Language	: Python 								
+Essential Module	: sys		urllib		time	pandas	re	bs4(beautifulsoup)	selenium
+Final code update date	: 2019.05.07								
+crawling 기간	: Youtube_2017.05.01~ 2019.05.03		Naver_2018.04.27~2019.05.04		Twitter_2018.04.03~2019.05.04				
+
 ```
 ### 2. Crawling
 ```
