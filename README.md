@@ -15,6 +15,45 @@ Final code update date	: 2019.05.07
 crawling 기간	: Youtube_2017.05.01~ 2019.05.03		Naver_2018.04.27~2019.05.04		Twitter_2018.04.03~2019.05.04				
 
 ```
+
+<table>
+  <thead>
+    <tr>
+      <th width = "130"></th>
+      <th>Youtube</th>
+      <th>Naver Blog</th>
+      <th>Twitter</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align = "center">Language</td>
+      <td colspan="3" align = "center">Python3</td>
+    </tr>
+    <tr>
+      <td align = "center"> Module </td>
+      <td colspan = "3" align = "center">sys, urllib, time, pandas, re, bs4, selenium</td>
+    </tr>
+    <tr>
+      <td align = "center">Final update</td>
+      <td colspan ="3" align = "center">2019.05.07</td>
+    </tr>
+    <tr>
+      <td align = "center"> Crawling&nbsp;Target</td>
+      <td align = "center"> Commentes</td>
+      <td align = "center"> Blog preview text</td>
+      <td align = "ceneter"> Posts</td>
+    </tr>
+    <tr>
+      <td> crawling 기간</td>
+      <td>2017.05.01&nbsp;~&nbsp;2019.05.03</td>
+      <td>2018.04.27&nbsp;~&nbsp;2019.05.04</td>
+      <td>2018.04.03&nbsp;~&nbsp;2019.05.04</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 2. Crawling
 ```
 -Filtering Code: filter spam words in crawled data
