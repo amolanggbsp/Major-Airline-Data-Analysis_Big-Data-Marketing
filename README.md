@@ -42,7 +42,7 @@ crawling 기간	: Youtube_2017.05.01~ 2019.05.03		Naver_2018.04.27~2019.05.04		T
       <td align = "center"> Crawling&nbsp;Target</td>
       <td align = "center"> Commentes</td>
       <td align = "center"> Blog preview text</td>
-      <td align = "ceneter"> Posts</td>
+      <td align = "center"> Posts</td>
     </tr>
     <tr>
       <td> crawling 기간</td>
